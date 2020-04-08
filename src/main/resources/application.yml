@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-admin-server
+
+
+## 自定义info信息
+info:
+  thinkingcao:
+    name: PHP是最好的语言
